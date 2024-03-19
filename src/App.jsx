@@ -9,25 +9,12 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex nesciunt illum est, eum ab explicabo ipsum hic consectetur laborum. Officiis.</p>
+        <p>Voluptatem, adipisci labore laudantium officiis saepe cumque veniam, corrupti minus sequi voluptates sed, inventore dignissimos voluptate ducimus suscipit ullam ex!</p>
+        <p>Quaerat tempore dicta architecto repudiandae ad omnis facilis sed ducimus exercitationem. Placeat, non voluptas. Consequatur nostrum impedit iusto quam molestias.</p>
+        <p>Nesciunt ea inventore quos omnis, molestiae veritatis saepe voluptas libero laudantium quae tempore. Eum quam, culpa incidunt non corrupti dolore.</p>
+        <p>Quis molestias provident nostrum animi quibusdam molestiae error aliquam fugit saepe, vero ullam similique veritatis asperiores aut! Quia, fugiat cumque?</p>
+      </div>git add .
     </>
   )
 }
