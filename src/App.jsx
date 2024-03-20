@@ -1,13 +1,16 @@
 import './App.css'
-import Daisy from './components/Daisy'
+import Nav from './components/Nav/Nav';
+// import Daisy from './components/Daisy'
+
 
 function App() {
 
   return (
     <>
-      <Daisy></Daisy>
+      {/* <Daisy></Daisy> */}
+      <Nav></Nav>
     </>
   )
 }
 
-export default App
+export default App;
